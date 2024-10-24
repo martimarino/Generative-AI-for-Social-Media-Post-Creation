@@ -1,0 +1,8 @@
+[
+    {
+        "instance_prompt":      "photo of zwx ebook reader",
+        "class_prompt":         "photo of a ebook reader",
+        "instance_data_dir":    "drive/MyDrive/BPM/Dreambooth",
+        "class_data_dir":       "drive/MyDrive/BPM/Dreambooth/img"
+    }
+]
